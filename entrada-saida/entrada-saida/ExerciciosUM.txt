@@ -1,0 +1,33 @@
+ExercícioUM
+Objetivo: Praticar Entrada e Saída de Dados em C#.
+
+01-Instruções:
+
+-Peça ao usuário para digitar o nome dele.
+-Armazene o nome em uma variável.
+-Exiba uma mensagem de boas-vindas na tela, usando o nome que o usuário digitou.
+
+
+02-Instruções:
+
+-Peça ao usuário para digitar dois números inteiros.
+-Leia os dois números e converta-os para o tipo int.
+-Some os dois números.
+-Exiba o resultado da soma na tela.
+
+03-Instruções:
+
+-Peça ao usuário para digitar o nome completo e a idade.
+-Leia o nome (como string) e a idade (como string, e depois converta para int).
+-Exiba uma mensagem completa na tela, mostrando o nome e a idade do usuário.
+
+
+04-Instruções:
+
+-Peça ao usuário para digitar três notas de um aluno.
+-Leia as três notas. Como as notas podem ser decimais, você deve convertê-las para o tipo double usando Convert.ToDouble() ou double.Parse().
+-Calcule a média das três notas.
+-Exiba a média na tela.
+
+
+*Tente resolver esses desafios usando os conceitos de Console.WriteLine(), Console.Write() e Console.ReadLine().*
