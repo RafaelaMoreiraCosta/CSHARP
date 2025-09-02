@@ -27,6 +27,6 @@ Este repositório tem como propósito organizar meu aprendizado em C# e deixar r
 - IDE: Visual Studio/ VS Code
 
 ## Observação
-- Os codigos estaram comentados com as devidas explicações.
+- Os codigos estaram comentados.
 
 
