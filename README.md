@@ -5,7 +5,7 @@ Este repositório tem como propósito organizar meu aprendizado em C# e deixar r
 
 ## Objetivos deste repositório
 - Praticar os conceitos básicos de C#.
-- Criar exemplos simples.
+- Disponibilizar exemplos simples.
 - Montar um portfólio de aprendizado no GitHub.
 
 ---
